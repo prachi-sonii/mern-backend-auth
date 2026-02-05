@@ -172,12 +172,6 @@ Response to Client
 
 ---
 
-## 🚀 Future Enhancements
 
-* Password hashing using bcrypt
-* JWT-based authentication
-* Protected routes
-* React frontend integration
-* Deployment (Render / Railway)
 
 
