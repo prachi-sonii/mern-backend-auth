@@ -26,35 +26,35 @@ Postman – API testing
 Git & GitHub – Version control
 Nodemon – Development tool
 
----
+
 
 ## 📂 Project Structure
 
 ```text
 mern-backend-auth/
 │
-├── index.js                # Entry point
-├── package.json            # Project metadata & dependencies
-├── README.md               # Documentation
+├── index.js                
+├── package.json           
+├── README.md               n
 │
 ├── config/
-│   └── db.js               # MongoDB connection
+│   └── db.js              
 │
 ├── models/
-│   └── User.js             # User schema
+│   └── User.js            
 │
 ├── controllers/
-│   └── authController.js   # Authentication logic
+│   └── authController.js   
 │
 ├── routes/
-│   └── authRoutes.js       # API routes
+│   └── authRoutes.js      
 │
-└── .env                    # Environment variables (not committed)
+└── .env                    
 ```
 
 
 
----
+
 
 ## ⚙️ Setup Instructions
 
