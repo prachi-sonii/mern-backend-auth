@@ -30,6 +30,7 @@ Nodemon – Development tool
 
 ## 📂 Project Structure
 
+```text
 mern-backend-auth/
 │
 ├── index.js                # Entry point
@@ -49,6 +50,7 @@ mern-backend-auth/
 │   └── authRoutes.js       # API routes
 │
 └── .env                    # Environment variables (not committed)
+```
 
 
 
